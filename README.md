@@ -1,2 +1,3 @@
 # hello-world
-initiating repository
+My first repository
+- I'm Grant.
